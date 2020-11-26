@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp5", "Tp5\Tp5.csproj", "{67261DF2-C142-478B-B7C4-8709B633ABCF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TP5-Setup", "TP5-Setup\TP5-Setup.vdproj", "{14679ED4-1917-4B81-B33D-02F751282513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67261DF2-C142-478B-B7C4-8709B633ABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67261DF2-C142-478B-B7C4-8709B633ABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67261DF2-C142-478B-B7C4-8709B633ABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67261DF2-C142-478B-B7C4-8709B633ABCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14679ED4-1917-4B81-B33D-02F751282513}.Debug|Any CPU.ActiveCfg = Debug
+		{14679ED4-1917-4B81-B33D-02F751282513}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CFC8D53-44B4-4DE1-9888-98498EEBA48D}
+	EndGlobalSection
+EndGlobal
